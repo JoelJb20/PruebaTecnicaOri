@@ -1,0 +1,22 @@
+{
+  "name": "pruebatecnicaori",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoelJb20/PruebaTecnicaOri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoelJb20/PruebaTecnicaOri/issues"
+  },
+  "homepage": "https://github.com/JoelJb20/PruebaTecnicaOri#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.1"
+  }
+}
